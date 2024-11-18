@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="b0ec998a-c8a8-418b-a048-44e1b1e86b2d" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navpoint-chapter0000" playOrder="1">
+      <navLabel>
+        <text>The Psychology of Money</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0000_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0001" playOrder="2">
+      <navLabel>
+        <text>Introduction: The Greatest Show On Earth</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0002" playOrder="3">
+      <navLabel>
+        <text>1. No One’s Crazy</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0002_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0003" playOrder="4">
+      <navLabel>
+        <text>2. Luck &amp; Risk</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0003_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0004" playOrder="5">
+      <navLabel>
+        <text>3. Never Enough</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0004_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0005" playOrder="6">
+      <navLabel>
+        <text>4. Confounding Compounding</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0005_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0006" playOrder="7">
+      <navLabel>
+        <text>5. Getting Wealthy vs. Staying Wealthy</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0006_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0007" playOrder="8">
+      <navLabel>
+        <text>6. Tails, You Win</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0007_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0008" playOrder="9">
+      <navLabel>
+        <text>7. Freedom</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0008_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0009" playOrder="10">
+      <navLabel>
+        <text>8. Man in the Car Paradox</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0009_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0010" playOrder="11">
+      <navLabel>
+        <text>9. Wealth is What You Don’t See</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0010_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0011" playOrder="12">
+      <navLabel>
+        <text>10. Save Money</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0011_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0012" playOrder="13">
+      <navLabel>
+        <text>11. Reasonable &gt; Rational</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0012_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0013" playOrder="14">
+      <navLabel>
+        <text>12. Surprise!</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0013_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0014" playOrder="15">
+      <navLabel>
+        <text>13. Room for Error</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0014_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0015" playOrder="16">
+      <navLabel>
+        <text>14. You’ll Change</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0015_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0016" playOrder="17">
+      <navLabel>
+        <text>15. Nothing’s Free</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0016_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0017" playOrder="18">
+      <navLabel>
+        <text>16. You &amp; Me</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0017_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0018" playOrder="19">
+      <navLabel>
+        <text>17. The Seduction of Pessimism</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0018_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0019" playOrder="20">
+      <navLabel>
+        <text>18. When You’ll Believe Anything</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0019_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0020" playOrder="21">
+      <navLabel>
+        <text>19. All Together Now</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0020_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0021" playOrder="22">
+      <navLabel>
+        <text>20. Confessions</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0021_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0022" playOrder="23">
+      <navLabel>
+        <text>Postscript: A Brief History of Why the U.S. Consumer Thinks the Way They Do</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0023" playOrder="24">
+      <navLabel>
+        <text>Endnotes</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0024" playOrder="25">
+      <navLabel>
+        <text>Acknowledgements</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navpoint-chapter0025" playOrder="26">
+      <navLabel>
+        <text>Publishing details</text>
+      </navLabel>
+      <content src="OEBPS/Text/chapter0025.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta content="4248723263" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>The Divine Cities Trilogy</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>Title Page</text>
+    </navLabel>
+    <content src="Text/part0000.xhtml"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>Copyright</text>
+    </navLabel>
+    <content src="Text/part0001.xhtml"/>
+    </navPoint>
+    <navPoint id="np_3" playOrder="3">
+    <navLabel>
+    <text>Contents</text>
+    </navLabel>
+    <content src="Text/part0002.xhtml"/>
+    </navPoint>
+    <navPoint id="np_4" playOrder="4">
+    <navLabel>
+    <text>City of Stairs</text>
+    </navLabel>
+    <content src="Text/part0003.xhtml"/>
+      <navPoint id="np_5" playOrder="5">
+      <navLabel>
+      <text>Title Page</text>
+      </navLabel>
+      <content src="Text/part0004.xhtml"/>
+      </navPoint>
+      <navPoint id="np_6" playOrder="6">
+      <navLabel>
+      <text>Dedication</text>
+      </navLabel>
+      <content src="Text/part0006.xhtml"/>
+      </navPoint>
+      <navPoint id="np_7" playOrder="7">
+      <navLabel>
+      <text>Chapter 1: Someone Even Worse</text>
+      </navLabel>
+      <content src="Text/part0007.xhtml"/>
+      </navPoint>
+      <navPoint id="np_8" playOrder="8">
+      <navLabel>
+      <text>Chapter 2: We Must Civilize Them</text>
+      </navLabel>
+      <content src="Text/part0008.xhtml"/>
+      </navPoint>
+      <navPoint id="np_9" playOrder="9">
+      <navLabel>
+      <text>Chapter 3: Unmentionables</text>
+      </navLabel>
+      <content src="Text/part0009.xhtml"/>
+      </navPoint>
+      <navPoint id="np_10" playOrder="10">
+      <navLabel>
+      <text>Chapter 4: Dead Languages</text>
+      </navLabel>
+      <content src="Text/part0010.xhtml"/>
+      </navPoint>
+      <navPoint id="np_11" playOrder="11">
+      <navLabel>
+      <text>Chapter 5: To Do What He Does Best</text>
+      </navLabel>
+      <content src="Text/part0011.xhtml"/>
+      </navPoint>
+      <navPoint id="np_12" playOrder="12">
+      <navLabel>
+      <text>Chapter 6: A Memory Engraved</text>
+      </navLabel>
+      <content src="Text/part0012.xhtml"/>
+      </navPoint>
+      <navPoint id="np_13" playOrder="13">
+      <navLabel>
+      <text>Chapter 7: Dangerously Honest</text>
+      </navLabel>
+      <content src="Text/part0013.xhtml"/>
+      </navPoint>
+      <navPoint id="np_14" playOrder="14">
+      <navLabel>
+      <text>Chapter 8</text>
+      </navLabel>
+      <content src="Text/part0014.xhtml"/>
+      </navPoint>
+      <navPoint id="np_15" playOrder="15">
+      <navLabel>
+      <text>Chapter 9: What History Tells Us</text>
+      </navLabel>
+      <content src="Text/part0015.xhtml"/>
+      </navPoint>
+      <navPoint id="np_16" playOrder="16">
+      <navLabel>
+      <text>Chapter 10</text>
+      </navLabel>
+      <content src="Text/part0016.xhtml"/>
+      </navPoint>
+      <navPoint id="np_17" playOrder="17">
+      <navLabel>
+      <text>Chapter 11: Survivors</text>
+      </navLabel>
+      <content src="Text/part0017.xhtml"/>
+      </navPoint>
+      <navPoint id="np_18" playOrder="18">
+      <navLabel>
+      <text>Chapter 12: Re-Creations</text>
+      </navLabel>
+      <content src="Text/part0018.xhtml"/>
+      </navPoint>
+      <navPoint id="np_19" playOrder="19">
+      <navLabel>
+      <text>Chapter 13: You Will Know Pain</text>
+      </navLabel>
+      <content src="Text/part0019.xhtml"/>
+      </navPoint>
+      <navPoint id="np_20" playOrder="20">
+      <navLabel>
+      <text>Chapter 14: Salvation</text>
+      </navLabel>
+      <content src="Text/part0020.xhtml"/>
+      </navPoint>
+      <navPoint id="np_21" playOrder="21">
+      <navLabel>
+      <text>Chapter 15: The Divine City</text>
+      </navLabel>
+      <content src="Text/part0021.xhtml"/>
+      </navPoint>
+      <navPoint id="np_22" playOrder="22">
+      <navLabel>
+      <text>Chapter 16: Family Ties</text>
+      </navLabel>
+      <content src="Text/part0022.xhtml"/>
+      </navPoint>
+      <navPoint id="np_23" playOrder="23">
+      <navLabel>
+      <text>Chapter 17: What Is Reaped</text>
+      </navLabel>
+      <content src="Text/part0023.xhtml"/>
+      </navPoint>
+      <navPoint id="np_24" playOrder="24">
+      <navLabel>
+      <text>Chapter 18: What Is Sown</text>
+      </navLabel>
+      <content src="Text/part0024.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_25" playOrder="25">
+    <navLabel>
+    <text>City of Blades</text>
+    </navLabel>
+    <content src="Text/part0025.xhtml"/>
+      <navPoint id="np_26" playOrder="26">
+      <navLabel>
+      <text>Title Page</text>
+      </navLabel>
+      <content src="Text/part0027.xhtml"/>
+      </navPoint>
+      <navPoint id="np_27" playOrder="27">
+      <navLabel>
+      <text>Dedication</text>
+      </navLabel>
+      <content src="Text/part0029.xhtml"/>
+      </navPoint>
+      <navPoint id="np_28" playOrder="28">
+      <navLabel>
+      <text>Chapter 1: Make It Matter</text>
+      </navLabel>
+      <content src="Text/part0030.xhtml"/>
+      </navPoint>
+      <navPoint id="np_29" playOrder="29">
+      <navLabel>
+      <text>Chapter 2: A Reliable Old Horse</text>
+      </navLabel>
+      <content src="Text/part0031.xhtml"/>
+      </navPoint>
+      <navPoint id="np_30" playOrder="30">
+      <navLabel>
+      <text>Chapter 3: Progress</text>
+      </navLabel>
+      <content src="Text/part0032.xhtml"/>
+      </navPoint>
+      <navPoint id="np_31" playOrder="31">
+      <navLabel>
+      <text>Chapter 4: The Black Room</text>
+      </navLabel>
+      <content src="Text/part0033.xhtml"/>
+      </navPoint>
+      <navPoint id="np_32" playOrder="32">
+      <navLabel>
+      <text>Chapter 5: Components</text>
+      </navLabel>
+      <content src="Text/part0034.xhtml"/>
+      </navPoint>
+      <navPoint id="np_33" playOrder="33">
+      <navLabel>
+      <text>Chapter 6: Rites and Rituals</text>
+      </navLabel>
+      <content src="Text/part0035.xhtml"/>
+      </navPoint>
+      <navPoint id="np_34" playOrder="34">
+      <navLabel>
+      <text>Chapter 7: Out of the Deeps</text>
+      </navLabel>
+      <content src="Text/part0036.xhtml"/>
+      </navPoint>
+      <navPoint id="np_35" playOrder="35">
+      <navLabel>
+      <text>Chapter 8: She Who Clove the Earth in Twain</text>
+      </navLabel>
+      <content src="Text/part0037.xhtml"/>
+      </navPoint>
+      <navPoint id="np_36" playOrder="36">
+      <navLabel>
+      <text>Chapter 9: A Blast of Silence</text>
+      </navLabel>
+      <content src="Text/part0038.xhtml"/>
+      </navPoint>
+      <navPoint id="np_37" playOrder="37">
+      <navLabel>
+      <text>Chapter 10: The Chaff of Many Wars</text>
+      </navLabel>
+      <content src="Text/part0039.xhtml"/>
+      </navPoint>
+      <navPoint id="np_38" playOrder="38">
+      <navLabel>
+      <text>Chapter 11: A Just Death</text>
+      </navLabel>
+      <content src="Text/part0040.xhtml"/>
+      </navPoint>
+      <navPoint id="np_39" playOrder="39">
+      <navLabel>
+      <text>Chapter 12: The Tooth</text>
+      </navLabel>
+      <content src="Text/part0041.xhtml"/>
+      </navPoint>
+      <navPoint id="np_40" playOrder="40">
+      <navLabel>
+      <text>Chapter 13: The City of Blades</text>
+      </navLabel>
+      <content src="Text/part0042.xhtml"/>
+      </navPoint>
+      <navPoint id="np_41" playOrder="41">
+      <navLabel>
+      <text>Chapter 14: A Binding Contract</text>
+      </navLabel>
+      <content src="Text/part0043.xhtml"/>
+      </navPoint>
+      <navPoint id="np_42" playOrder="42">
+      <navLabel>
+      <text>Chapter 15: The Shadow of Oblivion</text>
+      </navLabel>
+      <content src="Text/part0044.xhtml"/>
+      </navPoint>
+      <navPoint id="np_43" playOrder="43">
+      <navLabel>
+      <text>Chapter 16: Queen of Grief</text>
+      </navLabel>
+      <content src="Text/part0045.xhtml"/>
+      </navPoint>
+      <navPoint id="np_44" playOrder="44">
+      <navLabel>
+      <text>Chapter 17: Defiant Love</text>
+      </navLabel>
+      <content src="Text/part0046.xhtml"/>
+      </navPoint>
+      <navPoint id="np_45" playOrder="45">
+      <navLabel>
+      <text>Acknowledgments</text>
+      </navLabel>
+      <content src="Text/part0047.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_46" playOrder="46">
+    <navLabel>
+    <text>City of Miracles</text>
+    </navLabel>
+    <content src="Text/part0048.xhtml"/>
+      <navPoint id="np_47" playOrder="47">
+      <navLabel>
+      <text>Title Page</text>
+      </navLabel>
+      <content src="Text/part0050.xhtml"/>
+      </navPoint>
+      <navPoint id="np_48" playOrder="48">
+      <navLabel>
+      <text>Dedication</text>
+      </navLabel>
+      <content src="Text/part0052.xhtml"/>
+      </navPoint>
+      <navPoint id="np_49" playOrder="49">
+      <navLabel>
+      <text>Chapter 1: Fallen Trees</text>
+      </navLabel>
+      <content src="Text/part0053.xhtml"/>
+      </navPoint>
+      <navPoint id="np_50" playOrder="50">
+      <navLabel>
+      <text>Chapter 2: Bringing Battle</text>
+      </navLabel>
+      <content src="Text/part0054.xhtml"/>
+      </navPoint>
+      <navPoint id="np_51" playOrder="51">
+      <navLabel>
+      <text>Chapter 3: Such Filthy Work</text>
+      </navLabel>
+      <content src="Text/part0055.xhtml"/>
+      </navPoint>
+      <navPoint id="np_52" playOrder="52">
+      <navLabel>
+      <text>Chapter 4: Don’t You Know There’s a War Going On</text>
+      </navLabel>
+      <content src="Text/part0056.xhtml"/>
+      </navPoint>
+      <navPoint id="np_53" playOrder="53">
+      <navLabel>
+      <text>Chapter 5: All I Had Left</text>
+      </navLabel>
+      <content src="Text/part0057.xhtml"/>
+      </navPoint>
+      <navPoint id="np_54" playOrder="54">
+      <navLabel>
+      <text>Chapter 6: Older Grounds</text>
+      </navLabel>
+      <content src="Text/part0058.xhtml"/>
+      </navPoint>
+      <navPoint id="np_55" playOrder="55">
+      <navLabel>
+      <text>Chapter 7: A Social Acquaintance</text>
+      </navLabel>
+      <content src="Text/part0059.xhtml"/>
+      </navPoint>
+      <navPoint id="np_56" playOrder="56">
+      <navLabel>
+      <text>Chapter 8: Target Practice</text>
+      </navLabel>
+      <content src="Text/part0060.xhtml"/>
+      </navPoint>
+      <navPoint id="np_57" playOrder="57">
+      <navLabel>
+      <text>Chapter 9: Too Much Night, Not Enough Moon</text>
+      </navLabel>
+      <content src="Text/part0061.xhtml"/>
+      </navPoint>
+      <navPoint id="np_58" playOrder="58">
+      <navLabel>
+      <text>Chapter 10: A Road in the Air</text>
+      </navLabel>
+      <content src="Text/part0062.xhtml"/>
+      </navPoint>
+      <navPoint id="np_59" playOrder="59">
+      <navLabel>
+      <text>Chapter 11: Dreamscapes</text>
+      </navLabel>
+      <content src="Text/part0063.xhtml"/>
+      </navPoint>
+      <navPoint id="np_60" playOrder="60">
+      <navLabel>
+      <text>Chapter 12: Ambassador</text>
+      </navLabel>
+      <content src="Text/part0064.xhtml"/>
+      </navPoint>
+      <navPoint id="np_61" playOrder="61">
+      <navLabel>
+      <text>Chapter 13: The Man Without Hope</text>
+      </navLabel>
+      <content src="Text/part0065.xhtml"/>
+      </navPoint>
+      <navPoint id="np_62" playOrder="62">
+      <navLabel>
+      <text>Chapter 14: The Twilight of the Divine</text>
+      </navLabel>
+      <content src="Text/part0066.xhtml"/>
+      </navPoint>
+      <navPoint id="np_63" playOrder="63">
+      <navLabel>
+      <text>Chapter 15: One Big Push</text>
+      </navLabel>
+      <content src="Text/part0067.xhtml"/>
+      </navPoint>
+      <navPoint id="np_64" playOrder="64">
+      <navLabel>
+      <text>Chapter 16: Close Your Eyes, I’ll Be Here in the Morning</text>
+      </navLabel>
+      <content src="Text/part0068.xhtml"/>
+      </navPoint>
+      <navPoint id="np_65" playOrder="65">
+      <navLabel>
+      <text>Acknowledgments</text>
+      </navLabel>
+      <content src="Text/part0069.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_66" playOrder="66">
+    <navLabel>
+    <text>About the Author</text>
+    </navLabel>
+    <content src="Text/part0070.xhtml"/>
+    </navPoint>
+    <navPoint id="np_67" playOrder="67">
+    <navLabel>
+    <text>Excerpt from Foundryside</text>
+    </navLabel>
+    <content src="Text/part0071.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

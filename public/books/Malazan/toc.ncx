@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="df82e845-c8cb-4c23-800f-e37148df7617" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.8.29)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Gardens of the Moon: Book One of The Malazan Book of the Fallen</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="65411b3c-bfc0-41c6-84d9-43cbfdec258a" playOrder="1">
+      <navLabel>
+        <text>MAPS</text>
+      </navLabel>
+      <content src="dummy_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="43d46321-622a-4b11-8af2-d0328d525bc5" playOrder="2">
+      <navLabel>
+        <text>DRAMATIS PERSONAE</text>
+      </navLabel>
+      <content src="dummy_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="0a7b28c5-9369-4428-a0dd-cbd6e92e6973" playOrder="3">
+      <navLabel>
+        <text>PROLOGUE</text>
+      </navLabel>
+      <content src="dummy_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="df99f628-1d27-4b97-9726-19476b1ed027" playOrder="4">
+      <navLabel>
+        <text>BOOK ONE</text>
+      </navLabel>
+      <content src="dummy_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="784af873-eecb-4b72-9e62-97bf63909e0c" playOrder="4">
+      <navLabel>
+        <text>Pale</text>
+      </navLabel>
+      <content src="dummy_split_014.html"/>
+      <navPoint class="chapter" id="500ba428-15e5-43ae-bc6a-f85bcf353d5c" playOrder="5">
+        <navLabel>
+          <text>Chapter One</text>
+        </navLabel>
+        <content src="dummy_split_016.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="62137a52-bfea-4e83-a658-2de86abe8a45" playOrder="6">
+        <navLabel>
+          <text>Chapter Two</text>
+        </navLabel>
+        <content src="dummy_split_018.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="180d9fa4-c0cf-41f6-ae29-2d33c11166e7" playOrder="7">
+        <navLabel>
+          <text>Chapter Three</text>
+        </navLabel>
+        <content src="dummy_split_020.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="38a108ec-74df-4ddd-91a9-4f5420122131" playOrder="8">
+        <navLabel>
+          <text>Chapter Four</text>
+        </navLabel>
+        <content src="dummy_split_022.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="9aaf4e0f-0417-4922-a92a-96999b555b13" playOrder="9">
+      <navLabel>
+        <text>BOOK TWO</text>
+      </navLabel>
+      <content src="dummy_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="7a7d07c5-40f8-4bfd-8069-89a6abd54e19" playOrder="9">
+      <navLabel>
+        <text>Darujhistan</text>
+      </navLabel>
+      <content src="dummy_split_024.html"/>
+      <navPoint class="chapter" id="fb3458ca-51f0-4ffc-8dac-a5f72760c4f6" playOrder="10">
+        <navLabel>
+          <text>Chapter Five</text>
+        </navLabel>
+        <content src="dummy_split_026.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="345656b9-3bbd-4efd-9cde-b0df6761e8d8" playOrder="11">
+        <navLabel>
+          <text>Chapter Six</text>
+        </navLabel>
+        <content src="dummy_split_028.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="b0436ecb-d160-404b-9c87-7990b3020f02" playOrder="12">
+        <navLabel>
+          <text>Chapter Seven</text>
+        </navLabel>
+        <content src="dummy_split_030.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="748a792e-e62d-4097-baee-5a3b82791d62" playOrder="13">
+      <navLabel>
+        <text>BOOK THREE</text>
+      </navLabel>
+      <content src="dummy_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="6e18139a-7f9c-4858-bfbe-525461db3818" playOrder="13">
+      <navLabel>
+        <text>The Mission</text>
+      </navLabel>
+      <content src="dummy_split_032.html"/>
+      <navPoint class="chapter" id="557424bf-7cf6-4771-af94-928f7aca9ddd" playOrder="14">
+        <navLabel>
+          <text>Chapter Eight</text>
+        </navLabel>
+        <content src="dummy_split_034.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="2f619aad-e6e9-4c5f-8094-eaeead4c101a" playOrder="15">
+        <navLabel>
+          <text>Chapter Nine</text>
+        </navLabel>
+        <content src="dummy_split_036.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="12ee66e5-9b6c-4746-acc1-991fbb0bd407" playOrder="16">
+        <navLabel>
+          <text>Chapter Ten</text>
+        </navLabel>
+        <content src="dummy_split_038.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="2cc348f1-33e3-4aa4-b190-705867ecdd03" playOrder="17">
+      <navLabel>
+        <text>BOOK FOUR</text>
+      </navLabel>
+      <content src="dummy_split_040.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="15d6b2c8-c84e-42f2-9f8c-6be24daeafc9" playOrder="17">
+      <navLabel>
+        <text>Assassins</text>
+      </navLabel>
+      <content src="dummy_split_040.html"/>
+      <navPoint class="chapter" id="3a9392f7-602b-4aca-aa73-9b8a1ca72e13" playOrder="18">
+        <navLabel>
+          <text>Chapter Eleven</text>
+        </navLabel>
+        <content src="dummy_split_042.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="1b113ad1-073e-4d09-b31c-518f28018082" playOrder="19">
+        <navLabel>
+          <text>Chapter Twelve</text>
+        </navLabel>
+        <content src="dummy_split_044.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="184648be-157a-47ed-a2e2-7b0e5cb0338f" playOrder="20">
+        <navLabel>
+          <text>Chapter Thirteen</text>
+        </navLabel>
+        <content src="dummy_split_046.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="9d6ef41f-eb54-4689-bc6a-795c1ebed968" playOrder="21">
+      <navLabel>
+        <text>BOOK FIVE</text>
+      </navLabel>
+      <content src="dummy_split_048.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a373604b-2603-40ba-af99-8680355afcc6" playOrder="21">
+      <navLabel>
+        <text>The Gadrobi Hills</text>
+      </navLabel>
+      <content src="dummy_split_048.html"/>
+      <navPoint class="chapter" id="59dd2902-388c-45f7-a876-ca23f0afeaef" playOrder="22">
+        <navLabel>
+          <text>Chapter Fourteen</text>
+        </navLabel>
+        <content src="dummy_split_050.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="3b69bd56-d947-4792-8688-d4a03974a78f" playOrder="23">
+        <navLabel>
+          <text>Chapter Fifteen</text>
+        </navLabel>
+        <content src="dummy_split_052.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="55267f75-0251-47c8-b2f4-7c1fd45e3530" playOrder="24">
+        <navLabel>
+          <text>Chapter Sixteen</text>
+        </navLabel>
+        <content src="dummy_split_054.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="e58c95fe-f6bb-48bb-82c0-48dde15385bc" playOrder="25">
+      <navLabel>
+        <text>BOOK SIX</text>
+      </navLabel>
+      <content src="dummy_split_056.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="a865f2f5-9840-43b8-8442-5879137ef4c3" playOrder="25">
+      <navLabel>
+        <text>The City of Blue Fire</text>
+      </navLabel>
+      <content src="dummy_split_056.html"/>
+      <navPoint class="chapter" id="1aeca9cc-eef5-47e4-a5d5-419c8a61709d" playOrder="26">
+        <navLabel>
+          <text>Chapter Seventeen</text>
+        </navLabel>
+        <content src="dummy_split_058.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="8ec9eabd-309b-4ad3-9f70-aae53e227b19" playOrder="27">
+        <navLabel>
+          <text>Chapter Eighteen</text>
+        </navLabel>
+        <content src="dummy_split_060.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="68ffa328-f9c2-43bc-9963-004c971dcdb6" playOrder="28">
+        <navLabel>
+          <text>Chapter Nineteen</text>
+        </navLabel>
+        <content src="dummy_split_062.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="88985391-8782-41e0-8d87-3c56e4bcf04f" playOrder="29">
+      <navLabel>
+        <text>BOOK SEVEN</text>
+      </navLabel>
+      <content src="dummy_split_064.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="5e871daa-92db-4c95-b0f0-f30637e250ef" playOrder="29">
+      <navLabel>
+        <text>The Fête</text>
+      </navLabel>
+      <content src="dummy_split_064.html"/>
+      <navPoint class="chapter" id="a1f67fae-32d5-41a7-b5d4-07036b3bf6dd" playOrder="30">
+        <navLabel>
+          <text>Chapter Twenty</text>
+        </navLabel>
+        <content src="dummy_split_066.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="70aa2555-6671-42b4-8035-3298b49751d5" playOrder="31">
+        <navLabel>
+          <text>Chapter Twenty-one</text>
+        </navLabel>
+        <content src="dummy_split_068.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="9097e9f8-3242-41c4-9736-dde29096c8e5" playOrder="32">
+        <navLabel>
+          <text>Chapter Twenty-two</text>
+        </navLabel>
+        <content src="dummy_split_070.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="d6aced70-ad9c-403d-aeb3-abc461923b8c" playOrder="33">
+        <navLabel>
+          <text>Chapter Twenty-three</text>
+        </navLabel>
+        <content src="dummy_split_072.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="73b2ee46-0054-48a3-91ef-e66bef2f95a5" playOrder="34">
+        <navLabel>
+          <text>Chapter Twenty-four</text>
+        </navLabel>
+        <content src="dummy_split_074.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="387f8882-efd0-42b2-bc9b-77ea9884b051" playOrder="35">
+      <navLabel>
+        <text>EPILOGUE</text>
+      </navLabel>
+      <content src="dummy_split_076.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="fb9566f1-ac04-4d00-8156-6a7a3e12b9da" playOrder="36">
+      <navLabel>
+        <text>GLOSSARY</text>
+      </navLabel>
+      <content src="dummy_split_078.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

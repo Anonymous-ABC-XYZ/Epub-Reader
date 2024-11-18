@@ -1,0 +1,29 @@
+p.gray::first-letter {
+color:#C4C6C8;
+}
+.crt
+{
+ text-align: left;
+ margin-top:0em;
+ margin-bottom:0em;
+}
+.squeeze100 {margin: 0 0%;}
+.squeeze90 {margin: 0 5%;}
+.squeeze8 {margin: 0 46%;}
+.isqueeze2_6 {width: 2.6em;}
+.chap_title
+{
+  padding-top: 2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+.top
+{
+  margin-top: 8em;
+}
+
+.normal {
+    font-style:normal;
+}
+
+.i {font-style:italic}

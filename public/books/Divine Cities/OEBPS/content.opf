@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Divine Cities Trilogy: City of Stairs, City of Blades, and City of Miracles, With an Excerpt From Foundryside</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Bennett, Robert Jackson">Robert Jackson Bennett</dc:creator>
+    <dc:identifier id="uid">4248723263</dc:identifier>
+    <dc:publisher>Broadway Books</dc:publisher>
+    <dc:source>Original</dc:source>
+    <dc:date>2018-08-07T05:00:00+00:00</dc:date>
+    <dc:rights>Copyright © 2018 by Robert Jackson Bennett</dc:rights>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Epic</dc:subject>
+    <dc:subject>Urban</dc:subject>
+    <dc:subject>Thrillers</dc:subject>
+    <dc:subject>Suspense</dc:subject>
+    <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;A special omnibus edition, collecting all three books of Robert Jackson Bennett’s acclaimed Divine Cities trilogy in a single volume. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt; &lt;/strong&gt;&lt;br&gt;
+In a world where terrifying, capricious gods once walked the earth, enslaving and brutalizing millions, three unforgettable protagonists struggle to come to terms with the mysteries these divinities left behind— and to make sure these cruel masters do not rise again. &lt;br&gt;
+&lt;br&gt;
+In &lt;em&gt;City of Stairs&lt;/em&gt;, an unassuming young woman named Shara Thivani arrives in Bulikov, the city that once wielded the powers of the gods to conquer the world. Officially, she is just another junior diplomat, dispatched by the city’s new colonial masters; unofficially, she is one of her country’s most accomplished spies, on a mission to solve a murder. As she pursues the killer, she begins to suspect that the gods who once guarded Bulikov are not as dead as they seem, and that the city’s cruel reign may begin anew. &lt;br&gt;
+&lt;br&gt;
+In &lt;em&gt;City of Blades&lt;/em&gt;, General Turin Mulaghesh—foul-mouthed hero of the battle of Bulikov, rumored war criminal, ally of an embattled prime minister—is pressed into service one last time, investigating a terrifying discovery in the city of Voortyashtan, once the stronghold of the god of war and death. Voortyashtan’s god is most certainly dead, but &lt;em&gt;something &lt;/em&gt;is awakening in the city. And someone is determined to make the world tremble at the city’s awful power once again. &lt;br&gt;
+&lt;br&gt;
+In &lt;em&gt;City of Miracles&lt;/em&gt;, the formidable, seemingly unkillable Sigrud je Harkvaldsson returns from self-imposed exile on a mission of revenge, only to find himself embroiled in a battle that may be beyond even his abilities to win—a secret, decades-long war that will force him to confront the last mysteries of Bulikov, the city of miracles itself.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (3.29.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">873e3db6-fac0-4327-b994-9e307a8a7551</dc:identifier>
+    <dc:identifier opf:scheme="BARNESNOBLE">w/the-divine-cities-trilogy-robert-jackson-bennett/1128169788</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">kEJPDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">B07BD2B1CT</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781984822116</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">B07BD2B1CT</dc:identifier>
+    <!-- THE FOLLOWINGS ARE REQUIRED TO EDIT IDS MANUALLY
+<meta property="title-type" refines="#title">main</meta>
+<meta property="display-seq" refines="#title">1</meta>
+<meta property="title-type" refines="#subtitle">subtitle</meta>
+<meta property="display-seq" refines="#subtitle">2</meta>
+<meta property="display-seq" refines="#creator1">1</meta>
+<meta property="role" scheme="marc:relators" refines="#creator1">aut</meta>
+<meta property="file-as" refines="#creator1">Jackson Bennett, Robert</meta>
+-->
+    <!-- Extra MetaData from RESC
+<meta content="Broadway Books" name="imprint"/>
+<meta property="dcterms:modified">2018-05-07T11:23:22Z</meta>
+<meta content="2018-05-04" name="created"/>
+<meta content="Aptara v5.3.1" name="generator"/>
+<meta property="ibooks:specified-fonts">true</meta>
+<meta content="2018-05-07" name="epubcheckdate"/>
+<meta content="4.0.1" name="epubcheckversion"/>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual,visual</meta>
+<meta property="schema:accessibilityFeature">displayTransformability</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityFeature">bookmarks</meta>
+<meta property="schema:accessibilityHazard">none</meta>
+-->
+    <meta name="output encoding" content="utf-8"/>
+    <meta name="primary-writing-mode" content="horizontal-lr"/>
+    <!-- BEGIN INFORMATION ONLY 
+<meta name="Cover ThumbNail Image" content="Images/image01008.jpeg" />
+<meta name="Drm Ebookbase Book Id" content="0006008597349" />
+<meta name="ASIN" content="B07BD2B1CT" />
+<meta name="Creator-Build-Tag" content="0721-dedaf5" />
+<meta name="Font-Signature_(hex)" content="0300000000000000000000000000008000200000000000000000000000000000a9bbfdb201f301e901ef01f64094409340994098409c409d40a6" />
+<meta name="Embedded-Record-Count" content="69" />
+<meta name="cdeType" content="EBOK" />
+<meta name="Creator-Minor-Version" content="9" />
+<meta name="Content-Language-Tag" content="en" />
+<meta name="CDEContentKey" content="B07BD2B1CT" />
+<meta name="Tamper-Proof-Keys_(hex)" content="01000000d000000001940000000191000000019500000001960000000197" />
+<meta name="override-kindle-fonts" content="false" />
+<meta name="Creator-Build-Number" content="0" />
+<meta name="Unknown_(407)_(hex)" content="0000000000000000" />
+<meta name="Amazon_Creator_Info" content="kjw" />
+<meta name="Rental-Expiration-Time" content="0000000000000000" />
+<meta name="Ownership-Type_(hex)" content="00" />
+<meta name="Unknown_(403)_(hex)" content="00" />
+<meta name="StartOffset" content="4294967295" />
+<meta name="Compression-Upgraded" content="Source-Target:c1-c2 KT_Version:2.9 Build:0805-4a0c57c" />
+<meta name="Creator-Software" content="201" />
+<meta name="HasFakeCover" content="0" />
+<meta name="Updated_Title" content="The Divine Cities Trilogy: City of Stairs, City of Blades, and City of Miracles, with an excerpt from  Foundryside" />
+<meta name="Watermark_(hex)" content="6174763a6b696e3a323a3249316b46396144635641524f502b696e587779357557434d584b5633564a6d4e62564e574370716e325271393742723951764431647841366475656b6769696e5671316642696b7958567572686656564f4c4e435654684e386276382f364d7856334371446b45387134774e4e5469796479315545424b66514e6276716b476173414a5746494a764776316d465a3250492b3733746653473744444343784976377a5a2b50712f4632303d3a57594e726558683563737976305866597a4b6c4f5a6337765730383d" />
+<meta name="547 (hex)" content="496e4d656d6f7279" />
+<meta name="Creator-Major-Version" content="2" />
+<meta name="sample" content="0" />
+<meta name="Clipping-Limit" content="100" />
+<meta name="Text-to-Speech-Disabled" content="0" />
+<meta name="Container_Id" content="Y59U" />
+<meta name="MetadataResourceURI" content="kindle:embed:0024" />
+<meta name="Metadata-Record-Offset" content="4294967295" />
+END INFORMATION ONLY -->
+    <meta name="calibre:title_sort" content="Divine Cities Trilogy: City of Stairs, City of Blades, and City of Miracles, With an Excerpt From Foundryside, The"/>
+    <meta name="calibre:author_link_map" content="{&quot;Robert Jackson Bennett&quot;: &quot;&quot;}"/>
+    <meta name="calibre:user_metadata:#series" content="{&quot;is_custom&quot;: true, &quot;is_multiple2&quot;: {}, &quot;link_column&quot;: &quot;value&quot;, &quot;is_editable&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;datatype&quot;: &quot;series&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {}, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;rec_index&quot;: 25, &quot;is_category&quot;: true, &quot;name&quot;: &quot;Crossover&quot;, &quot;search_terms&quot;: [&quot;#series&quot;], &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;label&quot;: &quot;series&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#formats" content="{&quot;is_custom&quot;: true, &quot;is_multiple2&quot;: {}, &quot;link_column&quot;: &quot;value&quot;, &quot;is_editable&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;datatype&quot;: &quot;series&quot;, &quot;colnum&quot;: 3, &quot;display&quot;: {}, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;rec_index&quot;: 23, &quot;is_category&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="calibre:user_metadata:#authorcount" content="{&quot;is_custom&quot;: true, &quot;is_multiple2&quot;: {}, &quot;link_column&quot;: &quot;value&quot;, &quot;is_editable&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;colnum&quot;: 4, &quot;display&quot;: {&quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;&quot;}, &quot;table&quot;: &quot;custom_column_4&quot;, &quot;#value#&quot;: null, &quot;is_csp&quot;: false, &quot;rec_index&quot;: 22, &quot;is_category&quot;: true, &quot;name&quot;: &quot;ABC&quot;, &quot;search_terms&quot;: [&quot;#authorcount&quot;], &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;label&quot;: &quot;authorcount&quot;, &quot;column&quot;: &quot;value&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="Images/cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item id="x_tp" media-type="application/xhtml+xml" href="Text/part0000.xhtml"/>
+    <item id="x_cop" media-type="application/xhtml+xml" href="Text/part0001.xhtml"/>
+    <item id="x_toc" media-type="application/xhtml+xml" href="Text/part0002.xhtml"/>
+    <item id="x_cvi1" media-type="application/xhtml+xml" href="Text/part0003.xhtml"/>
+    <item id="x_tp1" media-type="application/xhtml+xml" href="Text/part0004.xhtml"/>
+    <item id="x_toc1" media-type="application/xhtml+xml" href="Text/part0005.xhtml"/>
+    <item id="x_ded" media-type="application/xhtml+xml" href="Text/part0006.xhtml"/>
+    <item id="x_c01" media-type="application/xhtml+xml" href="Text/part0007.xhtml"/>
+    <item id="x_c02" media-type="application/xhtml+xml" href="Text/part0008.xhtml"/>
+    <item id="x_c03" media-type="application/xhtml+xml" href="Text/part0009.xhtml"/>
+    <item id="x_c04" media-type="application/xhtml+xml" href="Text/part0010.xhtml"/>
+    <item id="x_c05" media-type="application/xhtml+xml" href="Text/part0011.xhtml"/>
+    <item id="x_c06" media-type="application/xhtml+xml" href="Text/part0012.xhtml"/>
+    <item id="x_c07" media-type="application/xhtml+xml" href="Text/part0013.xhtml"/>
+    <item id="x_c08" media-type="application/xhtml+xml" href="Text/part0014.xhtml"/>
+    <item id="x_c09" media-type="application/xhtml+xml" href="Text/part0015.xhtml"/>
+    <item id="x_c10" media-type="application/xhtml+xml" href="Text/part0016.xhtml"/>
+    <item id="x_c11" media-type="application/xhtml+xml" href="Text/part0017.xhtml"/>
+    <item id="x_c12" media-type="application/xhtml+xml" href="Text/part0018.xhtml"/>
+    <item id="x_c13" media-type="application/xhtml+xml" href="Text/part0019.xhtml"/>
+    <item id="x_c14" media-type="application/xhtml+xml" href="Text/part0020.xhtml"/>
+    <item id="x_c15" media-type="application/xhtml+xml" href="Text/part0021.xhtml"/>
+    <item id="x_c16" media-type="application/xhtml+xml" href="Text/part0022.xhtml"/>
+    <item id="x_c17" media-type="application/xhtml+xml" href="Text/part0023.xhtml"/>
+    <item id="x_c18" media-type="application/xhtml+xml" href="Text/part0024.xhtml"/>
+    <item id="x_cvi2" media-type="application/xhtml+xml" href="Text/part0025.xhtml"/>
+    <item id="x_fsq" media-type="application/xhtml+xml" href="Text/part0026.xhtml"/>
+    <item id="x_tp2" media-type="application/xhtml+xml" href="Text/part0027.xhtml"/>
+    <item id="x_inlinetoc" media-type="application/xhtml+xml" href="Text/part0028.xhtml"/>
+    <item id="x_ded1" media-type="application/xhtml+xml" href="Text/part0029.xhtml"/>
+    <item id="x_c001" media-type="application/xhtml+xml" href="Text/part0030.xhtml"/>
+    <item id="x_c002" media-type="application/xhtml+xml" href="Text/part0031.xhtml"/>
+    <item id="x_c003" media-type="application/xhtml+xml" href="Text/part0032.xhtml"/>
+    <item id="x_c004" media-type="application/xhtml+xml" href="Text/part0033.xhtml"/>
+    <item id="x_c005" media-type="application/xhtml+xml" href="Text/part0034.xhtml"/>
+    <item id="x_c006" media-type="application/xhtml+xml" href="Text/part0035.xhtml"/>
+    <item id="x_c007" media-type="application/xhtml+xml" href="Text/part0036.xhtml"/>
+    <item id="x_c008" media-type="application/xhtml+xml" href="Text/part0037.xhtml"/>
+    <item id="x_c009" media-type="application/xhtml+xml" href="Text/part0038.xhtml"/>
+    <item id="x_c010" media-type="application/xhtml+xml" href="Text/part0039.xhtml"/>
+    <item id="x_c011" media-type="application/xhtml+xml" href="Text/part0040.xhtml"/>
+    <item id="x_c012" media-type="application/xhtml+xml" href="Text/part0041.xhtml"/>
+    <item id="x_c013" media-type="application/xhtml+xml" href="Text/part0042.xhtml"/>
+    <item id="x_c014" media-type="application/xhtml+xml" href="Text/part0043.xhtml"/>
+    <item id="x_c015" media-type="application/xhtml+xml" href="Text/part0044.xhtml"/>
+    <item id="x_c016" media-type="application/xhtml+xml" href="Text/part0045.xhtml"/>
+    <item id="x_c017" media-type="application/xhtml+xml" href="Text/part0046.xhtml"/>
+    <item id="x_ack" media-type="application/xhtml+xml" href="Text/part0047.xhtml"/>
+    <item id="x_cvi3" media-type="application/xhtml+xml" href="Text/part0048.xhtml"/>
+    <item id="x_Ffsq" media-type="application/xhtml+xml" href="Text/part0049.xhtml"/>
+    <item id="x_Ftp" media-type="application/xhtml+xml" href="Text/part0050.xhtml"/>
+    <item id="x_Finlinetoc" media-type="application/xhtml+xml" href="Text/part0051.xhtml"/>
+    <item id="x_Fded" media-type="application/xhtml+xml" href="Text/part0052.xhtml"/>
+    <item id="x_Fc001" media-type="application/xhtml+xml" href="Text/part0053.xhtml"/>
+    <item id="x_Fc002" media-type="application/xhtml+xml" href="Text/part0054.xhtml"/>
+    <item id="x_Fc003" media-type="application/xhtml+xml" href="Text/part0055.xhtml"/>
+    <item id="x_Fc004" media-type="application/xhtml+xml" href="Text/part0056.xhtml"/>
+    <item id="x_Fc005" media-type="application/xhtml+xml" href="Text/part0057.xhtml"/>
+    <item id="x_Fc006" media-type="application/xhtml+xml" href="Text/part0058.xhtml"/>
+    <item id="x_Fc007" media-type="application/xhtml+xml" href="Text/part0059.xhtml"/>
+    <item id="x_Fc008" media-type="application/xhtml+xml" href="Text/part0060.xhtml"/>
+    <item id="x_Fc009" media-type="application/xhtml+xml" href="Text/part0061.xhtml"/>
+    <item id="x_Fc010" media-type="application/xhtml+xml" href="Text/part0062.xhtml"/>
+    <item id="x_Fc011" media-type="application/xhtml+xml" href="Text/part0063.xhtml"/>
+    <item id="x_Fc012" media-type="application/xhtml+xml" href="Text/part0064.xhtml"/>
+    <item id="x_Fc013" media-type="application/xhtml+xml" href="Text/part0065.xhtml"/>
+    <item id="x_Fc014" media-type="application/xhtml+xml" href="Text/part0066.xhtml"/>
+    <item id="x_Fc015" media-type="application/xhtml+xml" href="Text/part0067.xhtml"/>
+    <item id="x_Fc016" media-type="application/xhtml+xml" href="Text/part0068.xhtml"/>
+    <item id="x_Fack" media-type="application/xhtml+xml" href="Text/part0069.xhtml"/>
+    <item id="x_ata" media-type="application/xhtml+xml" href="Text/part0070.xhtml"/>
+    <item id="x_exc" media-type="application/xhtml+xml" href="Text/part0071.xhtml"/>
+    <item id="x_next-reads_template" media-type="application/xhtml+xml" href="Text/part0072.xhtml"/>
+    <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+    <item id="item74" media-type="text/css" href="Styles/style0001.css"/>
+    <item id="item75" media-type="text/css" href="Styles/style0002.css"/>
+    <item id="item76" media-type="text/css" href="Styles/style0003.css"/>
+    <item id="item77" media-type="text/css" href="Styles/style0004.css"/>
+    <item id="item78" media-type="text/css" href="Styles/style0005.css"/>
+    <item id="item79" media-type="text/css" href="Styles/style0006.css"/>
+    <item id="item80" media-type="text/css" href="Styles/style0007.css"/>
+    <item id="item81" media-type="image/jpeg" href="Images/image00940.jpeg"/>
+    <item id="item83" media-type="image/jpeg" href="Images/image00942.jpeg"/>
+    <item id="item84" media-type="image/jpeg" href="Images/image00943.jpeg"/>
+    <item id="item85" media-type="image/jpeg" href="Images/image00944.jpeg"/>
+    <item id="item86" media-type="image/jpeg" href="Images/image00945.jpeg"/>
+    <item id="item87" media-type="image/jpeg" href="Images/image00946.jpeg"/>
+    <item id="item88" media-type="image/jpeg" href="Images/image00947.jpeg"/>
+    <item id="item89" media-type="image/jpeg" href="Images/image00948.jpeg"/>
+    <item id="item90" media-type="image/jpeg" href="Images/image00949.jpeg"/>
+    <item id="item91" media-type="image/jpeg" href="Images/image00950.jpeg"/>
+    <item id="item92" media-type="image/jpeg" href="Images/image00951.jpeg"/>
+    <item id="item93" media-type="image/jpeg" href="Images/image00952.jpeg"/>
+    <item id="item94" media-type="image/jpeg" href="Images/image00953.jpeg"/>
+    <item id="item95" media-type="image/jpeg" href="Images/image00954.jpeg"/>
+    <item id="item96" media-type="image/jpeg" href="Images/image00955.jpeg"/>
+    <item id="item97" media-type="image/jpeg" href="Images/image00956.jpeg"/>
+    <item id="item98" media-type="image/jpeg" href="Images/image00957.jpeg"/>
+    <item id="item99" media-type="image/jpeg" href="Images/image00958.jpeg"/>
+    <item id="item100" media-type="image/jpeg" href="Images/image00959.jpeg"/>
+    <item id="item101" media-type="image/jpeg" href="Images/image00960.jpeg"/>
+    <item id="item102" media-type="image/jpeg" href="Images/image00961.jpeg"/>
+    <item id="item103" media-type="image/jpeg" href="Images/image00962.jpeg"/>
+    <item id="item104" media-type="image/jpeg" href="Images/image00963.jpeg"/>
+    <item id="item105" media-type="image/jpeg" href="Images/image00964.jpeg"/>
+    <item id="item106" media-type="image/jpeg" href="Images/image00965.jpeg"/>
+    <item id="item107" media-type="image/jpeg" href="Images/image00966.jpeg"/>
+    <item id="item108" media-type="image/jpeg" href="Images/image00967.jpeg"/>
+    <item id="item109" media-type="image/jpeg" href="Images/image00968.jpeg"/>
+    <item id="item110" media-type="image/jpeg" href="Images/image00969.jpeg"/>
+    <item id="item111" media-type="image/jpeg" href="Images/image00970.jpeg"/>
+    <item id="item112" media-type="image/jpeg" href="Images/image00971.jpeg"/>
+    <item id="item113" media-type="image/jpeg" href="Images/image00972.jpeg"/>
+    <item id="item114" media-type="image/jpeg" href="Images/image00973.jpeg"/>
+    <item id="item115" media-type="image/jpeg" href="Images/image00974.jpeg"/>
+    <item id="item116" media-type="image/jpeg" href="Images/image00975.jpeg"/>
+    <item id="item117" media-type="image/jpeg" href="Images/image00976.jpeg"/>
+    <item id="item118" media-type="image/jpeg" href="Images/image00977.jpeg"/>
+    <item id="item119" media-type="image/jpeg" href="Images/image00978.jpeg"/>
+    <item id="item120" media-type="image/jpeg" href="Images/image00979.jpeg"/>
+    <item id="item121" media-type="image/jpeg" href="Images/image00980.jpeg"/>
+    <item id="item122" media-type="image/jpeg" href="Images/image00981.jpeg"/>
+    <item id="item123" media-type="image/jpeg" href="Images/image00982.jpeg"/>
+    <item id="item124" media-type="image/jpeg" href="Images/image00983.jpeg"/>
+    <item id="item125" media-type="image/jpeg" href="Images/image00984.jpeg"/>
+    <item id="item126" media-type="image/jpeg" href="Images/image00985.jpeg"/>
+    <item id="item127" media-type="image/jpeg" href="Images/image00986.jpeg"/>
+    <item id="item128" media-type="image/jpeg" href="Images/image00987.jpeg"/>
+    <item id="item129" media-type="image/jpeg" href="Images/image00988.jpeg"/>
+    <item id="item130" media-type="image/jpeg" href="Images/image00989.jpeg"/>
+    <item id="item131" media-type="image/jpeg" href="Images/image00990.jpeg"/>
+    <item id="item132" media-type="image/jpeg" href="Images/image00991.jpeg"/>
+    <item id="item133" media-type="image/jpeg" href="Images/image00992.jpeg"/>
+    <item id="item134" media-type="image/jpeg" href="Images/image00993.jpeg"/>
+    <item id="item135" media-type="image/jpeg" href="Images/image00994.jpeg"/>
+    <item id="item136" media-type="image/jpeg" href="Images/image00995.jpeg"/>
+    <item id="item137" media-type="image/jpeg" href="Images/image00996.jpeg"/>
+    <item id="item138" media-type="image/jpeg" href="Images/image00997.jpeg"/>
+    <item id="item139" media-type="image/jpeg" href="Images/image00998.jpeg"/>
+    <item id="item140" media-type="image/jpeg" href="Images/image00999.jpeg"/>
+    <item id="item141" media-type="image/jpeg" href="Images/image01000.jpeg"/>
+    <item id="item142" media-type="image/jpeg" href="Images/image01001.jpeg"/>
+    <item id="item143" media-type="image/jpeg" href="Images/image01002.jpeg"/>
+    <item id="item144" media-type="image/jpeg" href="Images/image01003.jpeg"/>
+    <item id="item147" media-type="image/jpeg" href="Images/image01006.jpeg"/>
+    <item id="item145" media-type="application/x-font-opentype" href="Fonts/font01004.otf"/>
+    <item id="item146" media-type="application/x-font-opentype" href="Fonts/font01005.otf"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="x_tp" linear="yes"/>
+    <itemref idref="x_cop" linear="yes"/>
+    <itemref idref="x_toc" linear="yes"/>
+    <itemref idref="x_cvi1" linear="yes"/>
+    <itemref idref="x_tp1" linear="yes"/>
+    <itemref idref="x_toc1" linear="yes"/>
+    <itemref idref="x_ded" linear="yes"/>
+    <itemref idref="x_c01" linear="yes"/>
+    <itemref idref="x_c02" linear="yes"/>
+    <itemref idref="x_c03" linear="yes"/>
+    <itemref idref="x_c04" linear="yes"/>
+    <itemref idref="x_c05" linear="yes"/>
+    <itemref idref="x_c06" linear="yes"/>
+    <itemref idref="x_c07" linear="yes"/>
+    <itemref idref="x_c08" linear="yes"/>
+    <itemref idref="x_c09" linear="yes"/>
+    <itemref idref="x_c10" linear="yes"/>
+    <itemref idref="x_c11" linear="yes"/>
+    <itemref idref="x_c12" linear="yes"/>
+    <itemref idref="x_c13" linear="yes"/>
+    <itemref idref="x_c14" linear="yes"/>
+    <itemref idref="x_c15" linear="yes"/>
+    <itemref idref="x_c16" linear="yes"/>
+    <itemref idref="x_c17" linear="yes"/>
+    <itemref idref="x_c18" linear="yes"/>
+    <itemref idref="x_cvi2" linear="yes"/>
+    <itemref idref="x_fsq" linear="yes"/>
+    <itemref idref="x_tp2" linear="yes"/>
+    <itemref idref="x_inlinetoc" linear="yes"/>
+    <itemref idref="x_ded1" linear="yes"/>
+    <itemref idref="x_c001" linear="yes"/>
+    <itemref idref="x_c002" linear="yes"/>
+    <itemref idref="x_c003" linear="yes"/>
+    <itemref idref="x_c004" linear="yes"/>
+    <itemref idref="x_c005" linear="yes"/>
+    <itemref idref="x_c006" linear="yes"/>
+    <itemref idref="x_c007" linear="yes"/>
+    <itemref idref="x_c008" linear="yes"/>
+    <itemref idref="x_c009" linear="yes"/>
+    <itemref idref="x_c010" linear="yes"/>
+    <itemref idref="x_c011" linear="yes"/>
+    <itemref idref="x_c012" linear="yes"/>
+    <itemref idref="x_c013" linear="yes"/>
+    <itemref idref="x_c014" linear="yes"/>
+    <itemref idref="x_c015" linear="yes"/>
+    <itemref idref="x_c016" linear="yes"/>
+    <itemref idref="x_c017" linear="yes"/>
+    <itemref idref="x_ack" linear="yes"/>
+    <itemref idref="x_cvi3" linear="yes"/>
+    <itemref idref="x_Ffsq" linear="yes"/>
+    <itemref idref="x_Ftp" linear="yes"/>
+    <itemref idref="x_Finlinetoc" linear="yes"/>
+    <itemref idref="x_Fded" linear="yes"/>
+    <itemref idref="x_Fc001" linear="yes"/>
+    <itemref idref="x_Fc002" linear="yes"/>
+    <itemref idref="x_Fc003" linear="yes"/>
+    <itemref idref="x_Fc004" linear="yes"/>
+    <itemref idref="x_Fc005" linear="yes"/>
+    <itemref idref="x_Fc006" linear="yes"/>
+    <itemref idref="x_Fc007" linear="yes"/>
+    <itemref idref="x_Fc008" linear="yes"/>
+    <itemref idref="x_Fc009" linear="yes"/>
+    <itemref idref="x_Fc010" linear="yes"/>
+    <itemref idref="x_Fc011" linear="yes"/>
+    <itemref idref="x_Fc012" linear="yes"/>
+    <itemref idref="x_Fc013" linear="yes"/>
+    <itemref idref="x_Fc014" linear="yes"/>
+    <itemref idref="x_Fc015" linear="yes"/>
+    <itemref idref="x_Fc016" linear="yes"/>
+    <itemref idref="x_Fack" linear="yes"/>
+    <itemref idref="x_ata" linear="yes"/>
+    <itemref idref="x_exc" linear="yes"/>
+    <itemref idref="x_next-reads_template" linear="yes"/>
+  </spine>
+  <tours>
+    </tours>
+  <guide>
+    <reference type="text" title="Start" href="Text/part0001.xhtml"/>
+    <reference type="other.titlepage" title="Title Page" href="Text/part0000.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/part0002.xhtml"/>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

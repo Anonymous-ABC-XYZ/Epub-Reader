@@ -1,0 +1,588 @@
+.para-art {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+margin-top : 1.36em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-art-chap-pg {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-indent : 1em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-au {
+font-weight : normal;
+font-style : normal;
+font-size : 2.45em;
+ 
+margin-top : 0.11em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-bmp {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-indent : 1em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-bmpf {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-bmt-ack-pg {
+font-size : 1em;
+ 
+margin-bottom : 4.5em;
+text-align : center;
+margin-top : 0em;
+}
+.para-bobarl {
+font-size : 1em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-bobasqf {
+font-size : 1em;
+ 
+margin-top : 0.41em;
+margin-left : 2em;
+margin-right : 0;
+text-align : left;
+margin-bottom : 0.2em;
+}
+.para-bobasqs {
+font-style : italic;
+font-size : 0.9em;
+ 
+margin-top : 0.33em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-bobat-boba-pg {
+font-weight : normal;
+font-style : normal;
+font-size : 1.27em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-cepi {
+font-style : italic;
+font-size : 1em;
+ 
+text-indent : 1em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-cepif {
+font-style : italic;
+font-size : 1em;
+ 
+text-indent : 1em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-cepif-alt {
+font-style : italic;
+font-size : 1em;
+ 
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-cepil {
+font-style : italic;
+font-size : 1em;
+ 
+margin-bottom : 1.25em;
+text-indent : 1em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-top : 0em;
+}
+.para-cepiv {
+font-style : italic;
+font-size : 1em;
+ 
+text-indent : -2em;
+margin-left : 3.57em;
+margin-right : 0;
+text-align : left;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-cepivf {
+font-style : italic;
+font-size : 1em;
+ 
+margin-top : 1.25em;
+text-indent : -2em;
+margin-left : 3.57em;
+margin-right : 0;
+text-align : left;
+margin-bottom : 0.2em;
+}
+.para-cepivf-alt {
+font-style : italic;
+font-size : 1em;
+ 
+text-indent : -2em;
+margin-left : 3.57em;
+margin-right : 0;
+text-align : left;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-ceps {
+font-size : 0.9em;
+ 
+margin-top : 0.86em;
+margin-bottom : 0.86em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : right;
+}
+.para-cit {
+font-size : 0.91em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-cn {
+font-weight : normal;
+font-style : normal;
+font-size : 1.45em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-crt {
+font-weight : normal;
+font-style : normal;
+font-size : 0.9em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-cip {
+font-weight : normal;
+font-style : normal;
+font-size : 0.9em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-crtf {
+font-weight : normal;
+font-style : normal;
+font-size : 0.9em;
+ 
+margin-top : 1.22em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-cipf {
+font-weight : normal;
+font-style : normal;
+font-size : 0.9em;
+ 
+margin-top : 1.22em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-crtf-crt-pg {
+font-weight : normal;
+font-style : normal;
+font-size : 0.9em;
+ 
+margin-top : 1.22em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-ct {
+font-weight : normal;
+font-style : normal;
+font-size : 1.82em;
+ 
+margin-bottom : 0.8em;
+text-align : center;
+margin-top : 0em;
+}
+.para-ct-alt {
+font-weight : normal;
+font-style : normal;
+font-size : 1.82em;
+ 
+margin-top : 0.13em;
+margin-bottom : 0.85em;
+text-align : center;
+}
+.para-ded {
+font-style : italic;
+font-size : 1em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-dedf-ded-pg {
+font-style : italic;
+font-size : 1em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-ext1 {
+font-style : italic;
+font-size : 1em;
+ 
+text-indent : 1em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-ext1f {
+font-style : italic;
+font-size : 1em;
+ 
+margin-top : 1.25em;
+text-indent : 1em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-bottom : 0.2em;
+}
+.para-ext1l {
+font-style : italic;
+font-size : 1em;
+ 
+margin-bottom : 1.25em;
+text-indent : 1em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-top : 0em;
+}
+.para-extf {
+font-style : italic;
+font-size : 1em;
+ 
+margin-top : 1.25em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+margin-bottom : 0.2em;
+}
+.para-exts {
+font-style : italic;
+font-size : 1em;
+ 
+margin-top : 1.25em;
+margin-bottom : 1.25em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : justify;
+}
+.para-extsource {
+font-size : 0.9em;
+ 
+margin-bottom : 1.73em;
+margin-left : 1em;
+margin-right : 0em;
+text-align : right;
+margin-top : 0em;
+}
+.para-extv {
+font-style : italic;
+font-size : 1em;
+ 
+text-indent : -2em;
+margin-left : 2.78em;
+margin-right : 0;
+text-align : left;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-extvf {
+font-style : italic;
+font-size : 1em;
+ 
+margin-top : 1.25em;
+text-indent : -2em;
+margin-left : 2.78em;
+margin-right : 0;
+text-align : left;
+margin-bottom : 0.2em;
+}
+.para-extvl {
+font-style : italic;
+font-size : 1em;
+ 
+margin-bottom : 1.25em;
+text-indent : -2em;
+margin-left : 2.78em;
+margin-right : 0;
+text-align : left;
+margin-top : 0em;
+}
+.para-fsqf {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-fsqf-alt {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-fsqs {
+font-size : 1em;
+ 
+margin-bottom : 1.25em;
+text-align : right;
+margin-top : 0em;
+}
+.para-fst {
+font-size : 1.45em;
+ 
+margin-bottom : 2.91em;
+text-align : center;
+margin-top : 0em;
+}
+.para-fst-fs-pg {
+font-size : 1em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-htit-htit-pg {
+font-size : 1.45em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-imp {
+font-size : 1em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-imp-alt {
+font-size : 1em;
+ 
+margin-top : 2.6em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-orn {
+font-size : 1.25em;
+ 
+margin-top : 1em;
+margin-bottom : 1em;
+text-align : center;
+}
+.para-ornbot {
+font-size : 1.25em;
+ 
+margin-top : 1em;
+text-align : center;
+margin-bottom : 1em;
+}
+.para-orntop {
+font-size : 1.25em;
+ 
+margin-bottom : 1em;
+text-align : center;
+margin-top : 1em;
+}
+.para-p {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-indent : 1em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-p-alt {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-indent : 1em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-p-alt1 {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-indent : 1em;
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-paft {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-paft-alt {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-paft-alt1 {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-pf {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-pf-alt2 {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-pub {
+font-size : 1.18em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-stit {
+font-weight : normal;
+font-style : normal;
+font-size : 1.09em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-tit-tit-pg {
+font-size : 2.27em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-ul {
+font-size : 0.9em;
+ 
+text-align : center;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.para-ulf {
+font-size : 0.9em;
+ 
+margin-top : 0.67em;
+text-align : center;
+margin-bottom : 0.2em;
+}
+.para-ull {
+font-size : 0.9em;
+ 
+margin-bottom : 0.67em;
+text-align : center;
+margin-top : 0em;
+}
+.char-lang {
+}
+.char-dropcap {
+}
+.char-i {
+font-style : italic;
+}
+.char-sc {
+}
+.char-url {
+}
+.para-sp {
+font-weight : normal;
+font-style : normal;
+font-size : 1em;
+ 
+text-align : justify;
+margin-bottom : 0.2em;
+margin-top : 0em;
+}
+.squeeze73 {margin: 0 13.5%;}
+.squeeze83 {margin: 0 8.5%;}
+.squeeze77 {margin: 0 11.5%;}
+	.fb_0 {margin-left:0 }
+	.fb_2_8em {margin-left:2.8em }
+	.fb_2em {margin-left:2em }

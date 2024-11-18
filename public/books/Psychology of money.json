@@ -1,0 +1,524 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "links": [
+    {
+      "href": "/~readium/positions.json",
+      "type": "application/vnd.readium.position-list+json"
+    },
+    {
+      "href": "/~readium/content.json",
+      "type": "application/vnd.readium.content+json"
+    }
+  ],
+  "metadata": {
+    "author": {
+      "name": "Morgan Housel",
+      "sortAs": "Housel, Morgan"
+    },
+    "calibre:timestamp": "2020-09-09T06:54:16.492000+00:00",
+    "calibre:title_sort": "Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness, The",
+    "conformsTo": "https://readium.org/webpub-manifest/profiles/epub",
+    "contributor": {
+      "name": "calibre (4.23.0) [https://calibre-ebook.com]",
+      "role": "bkp"
+    },
+    "description": "\u003cdiv\u003e\n\u003cp\u003eDoing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. Money―investing, personal finance, and business decisions―is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In \u003cem\u003eThe Psychology of Money\u003c/em\u003e , award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics. **\u003c/p\u003e\u003c/div\u003e",
+    "http://purl.org/dc/terms/subject": [
+      "Business \u0026 Economics",
+      "Personal Finance",
+      "General",
+      "Investing"
+    ],
+    "http://www.idpf.org/2007/opf#version": "2.0",
+    "identifier": "b0ec998a-c8a8-418b-a048-44e1b1e86b2d",
+    "language": "en",
+    "presentation": {
+      "layout": "reflowable"
+    },
+    "published": "2020-09-07T18:30:00Z",
+    "publisher": "Harriman House Limited",
+    "sortAs": "Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness, The",
+    "subject": [
+      "Business \u0026 Economics",
+      "Personal Finance",
+      "General",
+      "Investing"
+    ],
+    "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness"
+  },
+  "readingOrder": [
+    {
+      "href": "/titlepage.xhtml",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0000_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0000_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0000_split_002.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0000_split_003.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0000_split_004.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0002_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0002_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0003_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0003_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0004_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0004_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0005_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0005_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0006_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0006_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0007_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0007_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0008_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0008_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0009_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0009_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0010_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0010_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0011_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0011_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0012_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0012_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0013_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0013_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0014_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0014_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0015_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0015_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0016_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0016_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0017_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0017_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0018_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0018_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0019_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0019_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0020_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0020_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0021_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0021_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0022.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0023.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0024.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0025.html",
+      "type": "application/xhtml+xml"
+    }
+  ],
+  "resources": [
+    {
+      "href": "/cover.jpeg",
+      "rel": "cover",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-0DFL3NDA.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-01MSVQ2Q.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-5J4XT991.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-7G2TWRVI.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-8HIU028T.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-8QLUAV2V.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-8ULGVBEJ.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-66FO01WB.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-95PNOBXS.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-95QKPVYZ.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-CD8XK7AR.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-COZ8T41F.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-CPRG4MPW.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-CVXK84Y1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-DDAB6FEL.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-HF7FY6V7.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-HMWJBL2A.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-HP54W0VO.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-HY2EVI55.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-J8EXVH9L.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-JB6L7899.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-JP8MQI6I.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-JS4L9B2D.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-KZ7FJULB.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-L50YBH85.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-MWGKMD9Y.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-RLJK0APQ.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-RSHHOK9R.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-SZJLKWDH.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-T14G6PN5.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-T57XA553.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-TXA8IG0Z.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-U12DHOGR.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-WOUPONJZ.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-X3UI7RS1.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/OEBPS/Images/image-Y4A8DBGO.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/page_styles.css",
+      "type": "text/css"
+    },
+    {
+      "href": "/stylesheet.css",
+      "type": "text/css"
+    },
+    {
+      "href": "/toc.ncx",
+      "type": "application/x-dtbncx+xml"
+    }
+  ],
+  "toc": [
+    {
+      "href": "/OEBPS/Text/chapter0000_split_000.html",
+      "title": "The Psychology of Money"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0001.html",
+      "title": "Introduction: The Greatest Show On Earth"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0002_split_000.html",
+      "title": "1. No One’s Crazy"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0003_split_000.html",
+      "title": "2. Luck \u0026 Risk"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0004_split_000.html",
+      "title": "3. Never Enough"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0005_split_000.html",
+      "title": "4. Confounding Compounding"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0006_split_000.html",
+      "title": "5. Getting Wealthy vs. Staying Wealthy"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0007_split_000.html",
+      "title": "6. Tails, You Win"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0008_split_000.html",
+      "title": "7. Freedom"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0009_split_000.html",
+      "title": "8. Man in the Car Paradox"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0010_split_000.html",
+      "title": "9. Wealth is What You Don’t See"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0011_split_000.html",
+      "title": "10. Save Money"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0012_split_000.html",
+      "title": "11. Reasonable \u003e Rational"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0013_split_000.html",
+      "title": "12. Surprise!"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0014_split_000.html",
+      "title": "13. Room for Error"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0015_split_000.html",
+      "title": "14. You’ll Change"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0016_split_000.html",
+      "title": "15. Nothing’s Free"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0017_split_000.html",
+      "title": "16. You \u0026 Me"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0018_split_000.html",
+      "title": "17. The Seduction of Pessimism"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0019_split_000.html",
+      "title": "18. When You’ll Believe Anything"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0020_split_000.html",
+      "title": "19. All Together Now"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0021_split_000.html",
+      "title": "20. Confessions"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0022.html",
+      "title": "Postscript: A Brief History of Why the U.S. Consumer Thinks the Way They Do"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0023.html",
+      "title": "Endnotes"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0024.html",
+      "title": "Acknowledgements"
+    },
+    {
+      "href": "/OEBPS/Text/chapter0025.html",
+      "title": "Publishing details"
+    }
+  ]
+}

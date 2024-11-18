@@ -1,0 +1,591 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "links": [
+    {
+      "href": "/~readium/content.json",
+      "type": "application/vnd.readium.content+json"
+    },
+    {
+      "href": "/~readium/positions.json",
+      "type": "application/vnd.readium.position-list+json"
+    }
+  ],
+  "metadata": {
+    "author": {
+      "name": "Erikson, Steven",
+      "sortAs": "Erikson, Steven"
+    },
+    "calibre:author_link_map": "{\"Erikson, Steven\": \"\"}",
+    "calibre:timestamp": "2011-12-08T13:55:07+00:00",
+    "calibre:title_sort": "Gardens of the Moon: Book One of The Malazan Book of the Fallen",
+    "calibre:user_categories": "{}",
+    "conformsTo": "https://readium.org/webpub-manifest/profiles/epub",
+    "contributor": {
+      "name": "calibre (0.8.29) [http://calibre-ebook.com]",
+      "role": "bkp"
+    },
+    "http://www.idpf.org/2007/opf#version": "2.0",
+    "identifier": "df82e845-c8cb-4c23-800f-e37148df7617",
+    "language": "en",
+    "presentation": {
+      "layout": "reflowable"
+    },
+    "published": "2010-03-31T22:00:00Z",
+    "publisher": "Macmillan",
+    "sortAs": "Gardens of the Moon: Book One of The Malazan Book of the Fallen",
+    "title": "Gardens of the Moon: Book One of The Malazan Book of the Fallen"
+  },
+  "readingOrder": [
+    {
+      "href": "/titlepage.xhtml",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_000.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_001.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_002.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_003.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_004.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_005.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_006.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_007.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_008.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_009.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_010.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_011.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_012.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_013.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_014.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_015.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_016.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_017.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_018.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_019.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_020.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_021.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_022.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_023.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_024.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_025.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_026.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_027.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_028.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_029.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_030.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_031.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_032.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_033.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_034.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_035.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_036.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_037.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_038.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_039.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_040.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_041.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_042.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_043.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_044.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_045.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_046.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_047.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_048.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_049.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_050.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_051.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_052.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_053.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_054.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_055.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_056.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_057.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_058.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_059.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_060.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_061.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_062.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_063.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_064.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_065.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_066.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_067.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_068.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_069.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_070.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_071.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_072.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_073.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_074.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_075.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_076.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_077.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_078.html",
+      "type": "application/xhtml+xml"
+    },
+    {
+      "href": "/dummy_split_079.html",
+      "type": "application/xhtml+xml"
+    }
+  ],
+  "resources": [
+    {
+      "href": "/cover.jpeg",
+      "rel": "cover",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/images/00001.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/images/00002.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/images/00003.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/images/00004.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/images/00005.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/images/00006.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "href": "/stylesheet.css",
+      "type": "text/css"
+    },
+    {
+      "href": "/toc.ncx",
+      "type": "application/x-dtbncx+xml"
+    }
+  ],
+  "toc": [
+    {
+      "href": "/dummy_split_008.html",
+      "title": "MAPS"
+    },
+    {
+      "href": "/dummy_split_009.html",
+      "title": "DRAMATIS PERSONAE"
+    },
+    {
+      "href": "/dummy_split_012.html",
+      "title": "PROLOGUE"
+    },
+    {
+      "href": "/dummy_split_014.html",
+      "title": "BOOK ONE"
+    },
+    {
+      "children": [
+        {
+          "href": "/dummy_split_016.html",
+          "title": "Chapter One"
+        },
+        {
+          "href": "/dummy_split_018.html",
+          "title": "Chapter Two"
+        },
+        {
+          "href": "/dummy_split_020.html",
+          "title": "Chapter Three"
+        },
+        {
+          "href": "/dummy_split_022.html",
+          "title": "Chapter Four"
+        }
+      ],
+      "href": "/dummy_split_014.html",
+      "title": "Pale"
+    },
+    {
+      "href": "/dummy_split_024.html",
+      "title": "BOOK TWO"
+    },
+    {
+      "children": [
+        {
+          "href": "/dummy_split_026.html",
+          "title": "Chapter Five"
+        },
+        {
+          "href": "/dummy_split_028.html",
+          "title": "Chapter Six"
+        },
+        {
+          "href": "/dummy_split_030.html",
+          "title": "Chapter Seven"
+        }
+      ],
+      "href": "/dummy_split_024.html",
+      "title": "Darujhistan"
+    },
+    {
+      "href": "/dummy_split_032.html",
+      "title": "BOOK THREE"
+    },
+    {
+      "children": [
+        {
+          "href": "/dummy_split_034.html",
+          "title": "Chapter Eight"
+        },
+        {
+          "href": "/dummy_split_036.html",
+          "title": "Chapter Nine"
+        },
+        {
+          "href": "/dummy_split_038.html",
+          "title": "Chapter Ten"
+        }
+      ],
+      "href": "/dummy_split_032.html",
+      "title": "The Mission"
+    },
+    {
+      "href": "/dummy_split_040.html",
+      "title": "BOOK FOUR"
+    },
+    {
+      "children": [
+        {
+          "href": "/dummy_split_042.html",
+          "title": "Chapter Eleven"
+        },
+        {
+          "href": "/dummy_split_044.html",
+          "title": "Chapter Twelve"
+        },
+        {
+          "href": "/dummy_split_046.html",
+          "title": "Chapter Thirteen"
+        }
+      ],
+      "href": "/dummy_split_040.html",
+      "title": "Assassins"
+    },
+    {
+      "href": "/dummy_split_048.html",
+      "title": "BOOK FIVE"
+    },
+    {
+      "children": [
+        {
+          "href": "/dummy_split_050.html",
+          "title": "Chapter Fourteen"
+        },
+        {
+          "href": "/dummy_split_052.html",
+          "title": "Chapter Fifteen"
+        },
+        {
+          "href": "/dummy_split_054.html",
+          "title": "Chapter Sixteen"
+        }
+      ],
+      "href": "/dummy_split_048.html",
+      "title": "The Gadrobi Hills"
+    },
+    {
+      "href": "/dummy_split_056.html",
+      "title": "BOOK SIX"
+    },
+    {
+      "children": [
+        {
+          "href": "/dummy_split_058.html",
+          "title": "Chapter Seventeen"
+        },
+        {
+          "href": "/dummy_split_060.html",
+          "title": "Chapter Eighteen"
+        },
+        {
+          "href": "/dummy_split_062.html",
+          "title": "Chapter Nineteen"
+        }
+      ],
+      "href": "/dummy_split_056.html",
+      "title": "The City of Blue Fire"
+    },
+    {
+      "href": "/dummy_split_064.html",
+      "title": "BOOK SEVEN"
+    },
+    {
+      "children": [
+        {
+          "href": "/dummy_split_066.html",
+          "title": "Chapter Twenty"
+        },
+        {
+          "href": "/dummy_split_068.html",
+          "title": "Chapter Twenty-one"
+        },
+        {
+          "href": "/dummy_split_070.html",
+          "title": "Chapter Twenty-two"
+        },
+        {
+          "href": "/dummy_split_072.html",
+          "title": "Chapter Twenty-three"
+        },
+        {
+          "href": "/dummy_split_074.html",
+          "title": "Chapter Twenty-four"
+        }
+      ],
+      "href": "/dummy_split_064.html",
+      "title": "The Fête"
+    },
+    {
+      "href": "/dummy_split_076.html",
+      "title": "EPILOGUE"
+    },
+    {
+      "href": "/dummy_split_078.html",
+      "title": "GLOSSARY"
+    }
+  ]
+}

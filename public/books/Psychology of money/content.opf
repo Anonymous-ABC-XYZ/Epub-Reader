@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:publisher>Harriman House Limited</dc:publisher>
+    <meta name="calibre:title_sort" content="Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness, The"/>
+    <dc:subject>Business &amp; Economics</dc:subject>
+    <dc:subject>Personal Finance</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Investing</dc:subject>
+    <dc:date>2020-09-07T18:30:00+00:00</dc:date>
+    <dc:creator opf:file-as="Housel, Morgan" opf:role="aut">Morgan Housel</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="cover" content="cover"/>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. Money―investing, personal finance, and business decisions―is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In &lt;em&gt;The Psychology of Money&lt;/em&gt; , award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics. **&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:title>The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness</dc:title>
+    <dc:language>en</dc:language>
+    <meta name="calibre:timestamp" content="2020-09-09T06:54:16.492000+00:00"/>
+    <dc:identifier opf:scheme="ISBN">9780857197696</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">TnrrDwAAQBAJ</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">0857197681</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">b0ec998a-c8a8-418b-a048-44e1b1e86b2d</dc:identifier>
+    <dc:identifier opf:scheme="calibre">b0ec998a-c8a8-418b-a048-44e1b1e86b2d</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0000_split_000.html" id="chapter00005" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0000_split_001.html" id="chapter00004" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0000_split_002.html" id="chapter00003" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0000_split_003.html" id="chapter00002" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0000_split_004.html" id="chapter00001" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0001.html" id="chapter0001" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0002_split_000.html" id="chapter00022" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0002_split_001.html" id="chapter00021" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0003_split_000.html" id="chapter00032" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0003_split_001.html" id="chapter00031" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0004_split_000.html" id="chapter00042" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0004_split_001.html" id="chapter00041" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0005_split_000.html" id="chapter00052" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0005_split_001.html" id="chapter00051" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0006_split_000.html" id="chapter00062" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0006_split_001.html" id="chapter00061" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0007_split_000.html" id="chapter00072" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0007_split_001.html" id="chapter00071" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0008_split_000.html" id="chapter00082" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0008_split_001.html" id="chapter00081" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0009_split_000.html" id="chapter00092" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0009_split_001.html" id="chapter00091" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0010_split_000.html" id="chapter00102" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0010_split_001.html" id="chapter00101" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0011_split_000.html" id="chapter00112" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0011_split_001.html" id="chapter00111" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0012_split_000.html" id="chapter00122" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0012_split_001.html" id="chapter00121" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0013_split_000.html" id="chapter00132" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0013_split_001.html" id="chapter00131" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0014_split_000.html" id="chapter00142" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0014_split_001.html" id="chapter00141" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0015_split_000.html" id="chapter00152" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0015_split_001.html" id="chapter00151" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0016_split_000.html" id="chapter00162" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0016_split_001.html" id="chapter00161" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0017_split_000.html" id="chapter00172" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0017_split_001.html" id="chapter00171" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0018_split_000.html" id="chapter00182" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0018_split_001.html" id="chapter00181" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0019_split_000.html" id="chapter00192" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0019_split_001.html" id="chapter00191" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0020_split_000.html" id="chapter00202" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0020_split_001.html" id="chapter00201" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0021_split_000.html" id="chapter00212" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0021_split_001.html" id="chapter00211" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0022.html" id="chapter0022" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0023.html" id="chapter0023" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0024.html" id="chapter0024" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/chapter0025.html" id="chapter0025" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Images/image-0DFL3NDA.jpg" id="img0022" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-01MSVQ2Q.jpg" id="img0026" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-5J4XT991.jpg" id="img0006" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-7G2TWRVI.jpg" id="img0030" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-8HIU028T.jpg" id="img0031" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-8QLUAV2V.jpg" id="img0021" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-8ULGVBEJ.jpg" id="img0000" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-66FO01WB.jpg" id="img0001" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-95PNOBXS.jpg" id="img0020" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-95QKPVYZ.jpg" id="img0010" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-CD8XK7AR.jpg" id="img0032" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-COZ8T41F.jpg" id="img0012" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-CPRG4MPW.jpg" id="img0017" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-CVXK84Y1.jpg" id="img0025" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-DDAB6FEL.jpg" id="img0023" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-HF7FY6V7.jpg" id="img0029" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-HMWJBL2A.jpg" id="img0028" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-HP54W0VO.jpg" id="img0035" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-HY2EVI55.jpg" id="img0005" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-J8EXVH9L.jpg" id="img0016" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-JB6L7899.jpg" id="img0018" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-JP8MQI6I.jpg" id="img0009" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-JS4L9B2D.jpg" id="img0013" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-KZ7FJULB.jpg" id="img0027" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-L50YBH85.jpg" id="img0008" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-MWGKMD9Y.jpg" id="img0034" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-RLJK0APQ.jpg" id="img0007" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-RSHHOK9R.jpg" id="img0014" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-SZJLKWDH.jpg" id="img0004" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-T14G6PN5.jpg" id="img0002" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-T57XA553.jpg" id="img0024" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-TXA8IG0Z.jpg" id="img0015" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-U12DHOGR.jpg" id="img0019" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-WOUPONJZ.jpg" id="img0011" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-X3UI7RS1.jpg" id="img0033" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image-Y4A8DBGO.jpg" id="img0003" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="chapter00005"/>
+    <itemref idref="chapter00004"/>
+    <itemref idref="chapter00003"/>
+    <itemref idref="chapter00002"/>
+    <itemref idref="chapter00001"/>
+    <itemref idref="chapter0001"/>
+    <itemref idref="chapter00022"/>
+    <itemref idref="chapter00021"/>
+    <itemref idref="chapter00032"/>
+    <itemref idref="chapter00031"/>
+    <itemref idref="chapter00042"/>
+    <itemref idref="chapter00041"/>
+    <itemref idref="chapter00052"/>
+    <itemref idref="chapter00051"/>
+    <itemref idref="chapter00062"/>
+    <itemref idref="chapter00061"/>
+    <itemref idref="chapter00072"/>
+    <itemref idref="chapter00071"/>
+    <itemref idref="chapter00082"/>
+    <itemref idref="chapter00081"/>
+    <itemref idref="chapter00092"/>
+    <itemref idref="chapter00091"/>
+    <itemref idref="chapter00102"/>
+    <itemref idref="chapter00101"/>
+    <itemref idref="chapter00112"/>
+    <itemref idref="chapter00111"/>
+    <itemref idref="chapter00122"/>
+    <itemref idref="chapter00121"/>
+    <itemref idref="chapter00132"/>
+    <itemref idref="chapter00131"/>
+    <itemref idref="chapter00142"/>
+    <itemref idref="chapter00141"/>
+    <itemref idref="chapter00152"/>
+    <itemref idref="chapter00151"/>
+    <itemref idref="chapter00162"/>
+    <itemref idref="chapter00161"/>
+    <itemref idref="chapter00172"/>
+    <itemref idref="chapter00171"/>
+    <itemref idref="chapter00182"/>
+    <itemref idref="chapter00181"/>
+    <itemref idref="chapter00192"/>
+    <itemref idref="chapter00191"/>
+    <itemref idref="chapter00202"/>
+    <itemref idref="chapter00201"/>
+    <itemref idref="chapter00212"/>
+    <itemref idref="chapter00211"/>
+    <itemref idref="chapter0022"/>
+    <itemref idref="chapter0023"/>
+    <itemref idref="chapter0024"/>
+    <itemref idref="chapter0025"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

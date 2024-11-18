@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta content="9780316362467" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>Kings of the Wyld</text></docTitle>
+<docAuthor><text>Nicholas Eames</text></docAuthor>
+<navMap>
+<navPoint id="cover" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+<navPoint id="titlepage" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="titlepage.xhtml"/></navPoint>
+<navPoint id="toc-copyright" playOrder="3"><navLabel><text>Copyright</text></navLabel><content src="copyright.xhtml"/></navPoint>
+<navPoint id="toc-contents" playOrder="4"><navLabel><text>Table of Contents</text></navLabel><content src="toc.xhtml"/></navPoint>
+<navPoint id="toc-dedication" playOrder="5"><navLabel><text>Dedication</text></navLabel><content src="dedication.xhtml"/></navPoint>
+<navPoint id="toc-preface001" playOrder="6"><navLabel><text>Map</text></navLabel><content src="preface001.xhtml"/></navPoint>
+<navPoint id="Ref_23723a" playOrder="7"><navLabel><text>Chapter One: A Ghost on the Road</text></navLabel><content src="chapter001.xhtml#Ref_23723"/></navPoint>
+<navPoint id="Ref_23726a" playOrder="8"><navLabel><text>Chapter Two: Rose</text></navLabel><content src="chapter002.xhtml#Ref_23726"/></navPoint>
+<navPoint id="Ref_23729a" playOrder="9"><navLabel><text>Chapter Three: A Good Man</text></navLabel><content src="chapter003.xhtml#Ref_23729"/></navPoint>
+<navPoint id="Ref_23732a" playOrder="10"><navLabel><text>Chapter Four: Hitting the Road</text></navLabel><content src="chapter004.xhtml#Ref_23732"/></navPoint>
+<navPoint id="Ref_23735a" playOrder="11"><navLabel><text>Chapter Five: Rocks, Socks, and Sandwiches</text></navLabel><content src="chapter005.xhtml#Ref_23735"/></navPoint>
+<navPoint id="Ref_23738a" playOrder="12"><navLabel><text>Chapter Six: The Monster Parade</text></navLabel><content src="chapter006.xhtml#Ref_23738"/></navPoint>
+<navPoint id="Ref_23741a" playOrder="13"><navLabel><text>Chapter Seven: Swimming with Sharks</text></navLabel><content src="chapter007.xhtml#Ref_23741"/></navPoint>
+<navPoint id="Ref_23744a" playOrder="14"><navLabel><text>Chapter Eight: Vellichor</text></navLabel><content src="chapter008.xhtml#Ref_23744"/></navPoint>
+<navPoint id="Ref_23747a" playOrder="15"><navLabel><text>Chapter Nine: The Heathen’s Touch</text></navLabel><content src="chapter009.xhtml#Ref_23747"/></navPoint>
+<navPoint id="Ref_23750a" playOrder="16"><navLabel><text>Chapter Ten: Through the Looking Glass</text></navLabel><content src="chapter010.xhtml#Ref_23750"/></navPoint>
+<navPoint id="Ref_23753a" playOrder="17"><navLabel><text>Chapter Eleven: The Cuckold King</text></navLabel><content src="chapter011.xhtml#Ref_23753"/></navPoint>
+<navPoint id="Ref_23756a" playOrder="18"><navLabel><text>Chapter Twelve: The Council of Courts</text></navLabel><content src="chapter012.xhtml#Ref_23756"/></navPoint>
+<navPoint id="Ref_23759a" playOrder="19"><navLabel><text>Chapter Thirteen: The Duke of Endland</text></navLabel><content src="chapter013.xhtml#Ref_23759"/></navPoint>
+<navPoint id="Ref_23762a" playOrder="20"><navLabel><text>Chapter Fourteen: Farewell to the King</text></navLabel><content src="chapter014.xhtml#Ref_23762"/></navPoint>
+<navPoint id="Ref_23765a" playOrder="21"><navLabel><text>Chapter Fifteen: Breakfast with Thieves</text></navLabel><content src="chapter015.xhtml#Ref_23765"/></navPoint>
+<navPoint id="Ref_23768a" playOrder="22"><navLabel><text>Chapter Sixteen: Snakes and Lions</text></navLabel><content src="chapter016.xhtml#Ref_23768"/></navPoint>
+<navPoint id="Ref_23771a" playOrder="23"><navLabel><text>Chapter Seventeen: Fivecourt</text></navLabel><content src="chapter017.xhtml#Ref_23771"/></navPoint>
+<navPoint id="Ref_23774a" playOrder="24"><navLabel><text>Chapter Eighteen: All That Glitters</text></navLabel><content src="chapter018.xhtml#Ref_23774"/></navPoint>
+<navPoint id="Ref_23777a" playOrder="25"><navLabel><text>Chapter Nineteen: Guests of the Gorgon</text></navLabel><content src="chapter019.xhtml#Ref_23777"/></navPoint>
+<navPoint id="Ref_23780a" playOrder="26"><navLabel><text>Chapter Twenty: The Soul in the Stone</text></navLabel><content src="chapter020.xhtml#Ref_23780"/></navPoint>
+<navPoint id="Ref_23783a" playOrder="27"><navLabel><text>Chapter Twenty-one: The Riot House</text></navLabel><content src="chapter021.xhtml#Ref_23783"/></navPoint>
+<navPoint id="Ref_23786a" playOrder="28"><navLabel><text>Chapter Twenty-two: The Maxithon</text></navLabel><content src="chapter022.xhtml#Ref_23786"/></navPoint>
+<navPoint id="Ref_23789a" playOrder="29"><navLabel><text>Chapter Twenty-three: Born to Kill</text></navLabel><content src="chapter023.xhtml#Ref_23789"/></navPoint>
+<navPoint id="Ref_23792a" playOrder="30"><navLabel><text>Chapter Twenty-four: Flying by Night</text></navLabel><content src="chapter024.xhtml#Ref_23792"/></navPoint>
+<navPoint id="Ref_23795a" playOrder="31"><navLabel><text>Chapter Twenty-five: Treasures of Varying Usefulness</text></navLabel><content src="chapter025.xhtml#Ref_23795"/></navPoint>
+<navPoint id="Ref_23798a" playOrder="32"><navLabel><text>Chapter Twenty-six: The Revenant in the Room</text></navLabel><content src="chapter026.xhtml#Ref_23798"/></navPoint>
+<navPoint id="Ref_23801a" playOrder="33"><navLabel><text>Chapter Twenty-seven: Bounty</text></navLabel><content src="chapter027.xhtml#Ref_23801"/></navPoint>
+<navPoint id="Ref_23804a" playOrder="34"><navLabel><text>Chapter Twenty-eight: Larkspur</text></navLabel><content src="chapter028.xhtml#Ref_23804"/></navPoint>
+<navPoint id="Ref_23807a" playOrder="35"><navLabel><text>Chapter Twenty-nine: Flight</text></navLabel><content src="chapter029.xhtml#Ref_23807"/></navPoint>
+<navPoint id="Ref_23810a" playOrder="36"><navLabel><text>Chapter Thirty: The Dark Star</text></navLabel><content src="chapter030.xhtml#Ref_23810"/></navPoint>
+<navPoint id="Ref_23813a" playOrder="37"><navLabel><text>Chapter Thirty-one: A Walk in the Wyld</text></navLabel><content src="chapter031.xhtml#Ref_23813"/></navPoint>
+<navPoint id="Ref_23816a" playOrder="38"><navLabel><text>Chapter Thirty-two: Drums and Drugs and Dreams</text></navLabel><content src="chapter032.xhtml#Ref_23816"/></navPoint>
+<navPoint id="Ref_23819a" playOrder="39"><navLabel><text>Chapter Thirty-three: The Flesheater</text></navLabel><content src="chapter033.xhtml#Ref_23819"/></navPoint>
+<navPoint id="Ref_23822a" playOrder="40"><navLabel><text>Chapter Thirty-four: Hope in Flames</text></navLabel><content src="chapter034.xhtml#Ref_23822"/></navPoint>
+<navPoint id="Ref_23825a" playOrder="41"><navLabel><text>Chapter Thirty-five: The Cannibal Court</text></navLabel><content src="chapter035.xhtml#Ref_23825"/></navPoint>
+<navPoint id="Ref_23828a" playOrder="42"><navLabel><text>Chapter Thirty-six: Rambling On</text></navLabel><content src="chapter036.xhtml#Ref_23828"/></navPoint>
+<navPoint id="Ref_23831a" playOrder="43"><navLabel><text>Chapter Thirty-seven: The Claw-broker</text></navLabel><content src="chapter037.xhtml#Ref_23831"/></navPoint>
+<navPoint id="Ref_23834a" playOrder="44"><navLabel><text>Chapter Thirty-eight: Tamarat</text></navLabel><content src="chapter038.xhtml#Ref_23834"/></navPoint>
+<navPoint id="Ref_23837a" playOrder="45"><navLabel><text>Chapter Thirty-nine: The Spirit Beneath the Skin</text></navLabel><content src="chapter039.xhtml#Ref_23837"/></navPoint>
+<navPoint id="Ref_23840a" playOrder="46"><navLabel><text>Chapter Forty: Cinnamon Smoke</text></navLabel><content src="chapter040.xhtml#Ref_23840"/></navPoint>
+<navPoint id="Ref_23843a" playOrder="47"><navLabel><text>Chapter Forty-one: Out of the Woods</text></navLabel><content src="chapter041.xhtml#Ref_23843"/></navPoint>
+<navPoint id="Ref_23846a" playOrder="48"><navLabel><text>Chapter Forty-two: Bards and Broken Bowls</text></navLabel><content src="chapter042.xhtml#Ref_23846"/></navPoint>
+<navPoint id="Ref_23849a" playOrder="49"><navLabel><text>Chapter Forty-three: The Cold Road</text></navLabel><content src="chapter043.xhtml#Ref_23849"/></navPoint>
+<navPoint id="Ref_23852a" playOrder="50"><navLabel><text>Chapter Forty-four: A Grave in the Clouds</text></navLabel><content src="chapter044.xhtml#Ref_23852"/></navPoint>
+<navPoint id="Ref_23855a" playOrder="51"><navLabel><text>Chapter Forty-five: A Song for the Dreamer</text></navLabel><content src="chapter045.xhtml#Ref_23855"/></navPoint>
+<navPoint id="Ref_23858a" playOrder="52"><navLabel><text>Chapter Forty-six: Deliverance</text></navLabel><content src="chapter046.xhtml#Ref_23858"/></navPoint>
+<navPoint id="Ref_23861a" playOrder="53"><navLabel><text>Chapter Forty-seven: New Hands, Old Friends</text></navLabel><content src="chapter047.xhtml#Ref_23861"/></navPoint>
+<navPoint id="Ref_23864a" playOrder="54"><navLabel><text>Chapter Forty-eight: The Maze of Stone and Fire</text></navLabel><content src="chapter048.xhtml#Ref_23864"/></navPoint>
+<navPoint id="Ref_23867a" playOrder="55"><navLabel><text>Chapter Forty-nine: Immortality</text></navLabel><content src="chapter049.xhtml#Ref_23867"/></navPoint>
+<navPoint id="Ref_23870a" playOrder="56"><navLabel><text>Chapter Fifty: The Battle of the Bands</text></navLabel><content src="chapter050.xhtml#Ref_23870"/></navPoint>
+<navPoint id="Ref_23873a" playOrder="57"><navLabel><text>Chapter Fifty-one: The Autumn Son</text></navLabel><content src="chapter051.xhtml#Ref_23873"/></navPoint>
+<navPoint id="Ref_23876a" playOrder="58"><navLabel><text>Chapter Fifty-two: Sheer Dumb Luck</text></navLabel><content src="chapter052.xhtml#Ref_23876"/></navPoint>
+<navPoint id="Ref_23879a" playOrder="59"><navLabel><text>Chapter Fifty-three: One Last Time</text></navLabel><content src="chapter053.xhtml#Ref_23879"/></navPoint>
+<navPoint id="Ref_23882a" playOrder="60"><navLabel><text>Epilogue: Home</text></navLabel><content src="epilogue.xhtml#Ref_23882"/></navPoint>
+<navPoint id="Ref_23936a" playOrder="61"><navLabel><text>Acknowledgments</text></navLabel><content src="acknowledgements.xhtml#Ref_23936"/></navPoint>
+<navPoint id="Ref_23933a" playOrder="62"><navLabel><text>Extras</text></navLabel><content src="appendix001.xhtml#Ref_23933"/>
+<navPoint id="Ref_23930a" playOrder="63"><navLabel><text>Meet the Author</text></navLabel><content src="appendix002.xhtml#Ref_23930"/></navPoint>
+<navPoint id="Ref_23885a" playOrder="64"><navLabel><text>Author Interview</text></navLabel><content src="appendix003.xhtml#Ref_23885"/></navPoint>
+</navPoint>
+<navPoint id="toc-teaser001" playOrder="65"><navLabel><text>A Preview of "The Next Installment in the Band Series"</text></navLabel><content src="appendix004.xhtml"/></navPoint>
+<navPoint id="toc-teaser002" playOrder="66"><navLabel><text>A Preview of "The Dragon Lords: Fool&#8217;s Gold"</text></navLabel><content src="appendix005.xhtml"/></navPoint>
+<navPoint id="newsletter1" playOrder="67"><navLabel><text>Orbit Newsletter</text></navLabel><content src="newsletterSignup.xhtml"/></navPoint>
+</navMap>
+</ncx>

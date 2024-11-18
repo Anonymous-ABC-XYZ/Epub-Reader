@@ -1,0 +1,85 @@
+@font-face {
+  font-family: Helvetica;
+  src: local(Helvetica);
+  size-adjust: 105%;
+}
+
+@font-face {
+  font-family: "Bricolage Grotesque 96pt Condensed";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/BricolageGrotesque96ptCondensed-Bold.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: Arial Narrow;
+  src: local(Arial Narrow);
+  size-adjust: 86%;
+}
+
+@font-face {
+  font-family: "Bricolage Grotesque Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/BricolageGrotesque-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Bricolage Grotesque Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/BricolageGrotesque-Bold.woff2") format("woff2");
+}
+
+@keyframes rainbow-text {
+  0% {
+    color: #f7768e;
+  }
+  10% {
+    color: #ff9e64;
+  }
+  30% {
+    color: #73daca;
+  }
+  40% {
+    color: #9ece6a;
+  }
+  60% {
+    color: #7dcfff;
+  }
+  70% {
+    color: #7aa2f7;
+  }
+  80% {
+    color: #bb9af7;
+  }
+  90% {
+    color: #7aa2f7;
+  }
+  100% {
+    color: #f7768e;
+  }
+}
+
+body {
+  background-color: #070707;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-image: radial-gradient(
+    circle at 50% 0%,
+    rgba(15, 0, 60, 0.3) 0%,
+    rgba(15, 0, 60, 0.3) 45%,
+    rgba(15, 0, 60, 0.3) 100%
+  );
+  background-size: auto;
+  background-origin: padding-box;
+  background-clip: border-box;
+}
+
+

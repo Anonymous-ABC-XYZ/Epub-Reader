@@ -1,0 +1,152 @@
+@font-face {
+  font-family: Helvetica;
+  src: local(Helvetica);
+  size-adjust: 105%;
+}
+
+@font-face {
+  font-family: "Bricolage Grotesque 96pt Condensed";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/BricolageGrotesque96ptCondensed-Bold.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: Arial Narrow;
+  src: local(Arial Narrow);
+  size-adjust: 86%;
+}
+
+@font-face {
+  font-family: "Bricolage Grotesque Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/BricolageGrotesque-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Bricolage Grotesque Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/BricolageGrotesque-Bold.woff2") format("woff2");
+}
+
+@keyframes rainbow-text {
+  0% {
+    color: #f7768e;
+  }
+  10% {
+    color: #ff9e64;
+  }
+  30% {
+    color: #73daca;
+  }
+  40% {
+    color: #9ece6a;
+  }
+  60% {
+    color: #7dcfff;
+  }
+  70% {
+    color: #7aa2f7;
+  }
+  80% {
+    color: #bb9af7;
+  }
+  90% {
+    color: #7aa2f7;
+  }
+  100% {
+    color: #f7768e;
+  }
+}
+
+body {
+  background-color: #070707;
+  background-position-x: 0%;
+  background-position-y: 0%;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-image: radial-gradient(
+    circle at 50% 0%,
+    rgba(15, 0, 60, 0.3) 0%,
+    rgba(15, 0, 60, 0.3) 45%,
+    rgba(15, 0, 60, 0.3) 100%
+  );
+  background-size: auto;
+  background-origin: padding-box;
+  background-clip: border-box;
+}
+
+h1 {
+  color: #d9d7d7;
+
+  font-family:
+    "Bricolage Grotesque 96pt Condensed",
+    Arial Narrow,
+    sans-serif;
+  font-weight: 700;
+  margin-top: 0;
+  text-align: center;
+  font-size: 3.5rem;
+  text-wrap: pretty;
+  padding-bottom: 1rem;
+  animation-name: rainbow-text;
+  animation-duration: 25s;
+  animation-iteration-count: infinite;
+}
+h2 {
+  color: #d9d7d7;
+  font-family: "Bricolage Grotesque Bold";
+  font-size: 2.7rem;
+}
+
+
+
+li {
+  color: #d9d7d7;
+  font-size: 2rem;
+  font-family: "Bricolage Grotesque Regular";
+  padding: 0.4rem;
+}
+
+ol {
+  font: "Bricolage Grotesque Regular";
+}
+
+a {
+  color: #b4befe;
+  font-size: 2rem;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: color 250ms ease-in-out;
+  font-family: "Bricolage Grotesque 96pt Condensed";
+  padding-left: 2rem;
+}
+
+a:hover,
+a:focus {
+  color: #f7768e;
+  animation-name: rainbow-text;
+  animation-duration: 7000ms;
+  animation-iteration-count: infinite;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-style: dotted;
+}
+
+.bookPageDiv {
+  display: block;
+  margin: auto;
+  width: 60%;
+}
+
+.blurbDiv {
+  margin: auto;
+  width: 60%;
+}
